@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# To-Do-App
+<h1>This is an advance to-do app.</h1><br>
+<h3>This is a full-stack application</h3>
+<h5>This is completely done in NextJS and Mern Stack</h5><br>
+<p>Will be using COMPONENTS like SHADCN, will be using resolvers like ZOD, will be using React Hook Forms and custom auth (next auth/auth JS), with addition to that we will be using OTP too and in last we have AI involved too.</p>
+ 
+
+>>>>>>> 7bc20205d885dbf4b911c9a44f6f14b0b014acdb
