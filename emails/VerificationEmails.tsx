@@ -43,21 +43,40 @@ import {
             </Text>
           </Row>
           <Row>
-            <Text>{otp}</Text> 
+            <Button
+              href="#"
+              style={{ 
+                backgroundColor: '#61dafb',
+                color: '#ffffff',
+                padding: '10px 20px',
+                borderRadius: '5px',
+                textDecoration: 'none',
+                fontWeight: 'bold'
+              }}
+            >
+              {otp}
+            </Button>
           </Row>
           <Row>
             <Text>
               If you did not request this code, please ignore this email.
             </Text>
           </Row>
-          {/* <Row>
+          <Row>
             <Button
               href={`http://localhost:3000/verify/${username}`}
-              style={{ color: '#61dafb' }}
+              style={{ 
+                backgroundColor: '#4CAF50',
+                color: '#ffffff',
+                padding: '10px 20px',
+                borderRadius: '5px',
+                textDecoration: 'none',
+                fontWeight: 'bold'
+              }}
             >
               Verify here
             </Button>
-          </Row> */}
+          </Row>
         </Section>
       </Html>
     );
